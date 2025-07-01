@@ -8,8 +8,8 @@ function inserirNome(){
 inserirNome();
 
 let linguagens = ["JavaScript", "HTML", "Python", "C", "C++"];
-console.log(linguagnes[0]);
-console.log(linguagnes[1]);
-console.log(linguagnes[2]);
-console.log(linguagnes[3]);
-console.log(linguagnes[4]);
+console.log(linguagnes[0]); // JavaScript
+console.log(linguagnes[1]); // HTML
+console.log(linguagnes[2]); // Python
+console.log(linguagnes[3]); // C
+console.log(linguagnes[4]); // C++
