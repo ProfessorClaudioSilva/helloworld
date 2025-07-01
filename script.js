@@ -8,11 +8,11 @@ function inserirNome(){
 inserirNome();
 
 let linguagens = ["JavaScript", "HTML", "Python", "C", "C++"];
-console.log(linguagnes[0]); // JavaScript
-console.log(linguagnes[1]); // HTML
-console.log(linguagnes[2]); // Python
-console.log(linguagnes[3]); // C
-console.log(linguagnes[4]); // C++
+console.log(linguagens[0]); // JavaScript
+console.log(linguagens[1]); // HTML
+console.log(linguagens[2]); // Python
+console.log(linguagens[3]); // C
+console.log(linguagens[4]); // C++
 
 const lista = document.querySelector("#lista");
 lista.textContent = linguagens[0];
