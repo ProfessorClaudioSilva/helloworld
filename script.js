@@ -15,4 +15,14 @@ console.log(linguagens[3]); // C
 console.log(linguagens[4]); // C++
 
 const lista = document.querySelector("#lista");
-lista.textContent = linguagens[0];
+lista.textContent = linguagens[2];
+
+let alunos = [“Antônio”, “Eduardo”, “Julia”, “João”, “Maria”];
+console.log(alunos[0]);
+console.log(alunos[1]);
+console.log(alunos[2]);
+console.log(alunos[3]);
+console.log(alunos[4]);
+
+const alunos = document.querySelector("#lista vazia");
+alunos.textContent = alunos[0];
