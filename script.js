@@ -15,4 +15,4 @@ console.log(linguagnes[3]); // C
 console.log(linguagnes[4]); // C++
 
 const lista = document.querySelector("#lista");
-lista.textContent = lingugens[0];
+lista.textContent = linguagens[0];
